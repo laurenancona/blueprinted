@@ -17,10 +17,9 @@ _This is a work-in-progress, to be completed Spring 2015._
  - Create a feature branch(es) in your local repository (e.g. 'water-textures')
  - Make and save your changes in Mapbox Studio, then quit _(MB Studio does not refresh changes to project files while running, so best to exit)_
  - Commit changes from local repository to remote feature branch
- - Submit a pull request
+ - Submit a pull request.
 
-
- ##Questions
+##Questions
  Feel free to tweet: [@laurenancona](https://twitter.com/laurenancona)
 
  
