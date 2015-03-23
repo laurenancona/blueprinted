@@ -2,7 +2,7 @@ blueprinted
 ===========================
 vector tile styles inspired by cyanotype reproductions of technical drawings
 
-![thumb]('/images/thumb.png')
+![thumb](/images/thumb.png)
 
 This was my first attempt at a custom basemap style, begun in Summer 2014, using a pre-release version of Mapbox Studio.
 _This is a work-in-progress, to be completed Spring 2015._
