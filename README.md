@@ -4,7 +4,7 @@ vector tile styles inspired by cyanotype reproductions of technical drawings
 
 ![thumb](https://raw.githubusercontent.com/laurenancona/blueprinted/master/images/thumb.png)
 
-This was my first attempt at a custom basemap style, begun in Summer 2014, using a pre-release version of Mapbox Studio.
+This was my first attempt at a custom basemap style, begun in Summer 2014, using a pre-release version of [Mapbox Studio](https://www.mapbox.com/mapbox-studio/).
 _This is a work-in-progress, to be completed Spring 2015._
 
 ##To use
@@ -19,5 +19,8 @@ _This is a work-in-progress, to be completed Spring 2015._
  - Commit changes from local repository to remote feature branch
  - Submit a pull request
 
+
  ##Questions
  Feel free to tweet: [@laurenancona](https://twitter.com/laurenancona)
+
+ 
