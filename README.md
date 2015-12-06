@@ -9,7 +9,7 @@ _This is a work-in-progress, to be completed Spring 2015._
 
 ##To use
  - Fork & Clone repository to local machine
- - Open Mapbox Studio
+ - Open Mapbox Studio Classic
  - Under 'Project' menu, select 'Browse'
  - Navigate to the repository folder and select 'Open'
 
